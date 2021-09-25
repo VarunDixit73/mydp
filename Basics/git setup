@@ -1,0 +1,6 @@
+open cmd
+git config --global user.name "Varun Dixit"
+git config --global user.email 77varundixit@gmail.com
+
+go to git hub create new repository
+come back to VS Code and go to source and click on new repository
