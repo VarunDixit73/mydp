@@ -17,3 +17,11 @@ print(f'"King" was found at index {idxKing}')
 idxA= msg.find('a')
 print(f'"King" was found at index {idxA}')
 print(len(msg))
+
+# find and index are same in functionality except index gives fatal error
+idxKing= msg.index('king')
+print(f'"king" found at index {idxKing}')
+
+idxQueen =msg.index('queen')
+print(f'"queen" found at index {idxQueen}')
+
