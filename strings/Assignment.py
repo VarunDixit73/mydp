@@ -51,6 +51,7 @@ print('Multiline String using single string is as follows:\n',mul_str)
 
 #10. Print this string `to move to newline '\n' is used.` (results should look exactly like the provided string)
 #print(f'to move to newline \n is used.')
+print('to move to newline \\n is used.')
 
 #11. Print a variable with some text using a single print function, output should look like following.
 #    ```
