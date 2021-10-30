@@ -1,0 +1,12 @@
+sqlalchemy
+streamlit
+numpy
+matplotlib
+seaborn
+pandas
+plotly
+selenium
+pillow
+opencv-contrib-python
+textblob
+
